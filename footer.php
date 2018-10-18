@@ -12,7 +12,7 @@
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
 							<li><a href="#"><i class="icon-phone"></i> +91 959 153 9216</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> abroadgulfjobs@outlook.com</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> abroadgulfjobs@outlook.com</a></li><p>Processing is done <br>as per MEA Rules and Norms</p>
 							
 						</ul>
 					</div>

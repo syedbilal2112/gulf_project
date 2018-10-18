@@ -41,6 +41,14 @@
     </div>
     <p class="answer">Email address and phone number of our office is submitted please feel free to contact us directly regarding your application.</p>
   </div>
+
+  <div class="topic">
+    <div class="open">
+    <h2 class="question">4. What should I do after I get selected?
+</h2><span class="faq-t"></span>
+    </div>
+    <p class="answer">If selected for job. Registration with consultancy is mandatory for further processing.</p>
+  </div>
   
 </main>
 <?php include 'footer.php'; ?>

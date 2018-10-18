@@ -21,6 +21,9 @@ Enclose the following with your application and send it through courier:
     <li>Your CV should have passport size Photograph placed on the top right hand side corner.</li>
     <li><b>Candidates whose documents are attested will be preferred.</b></li>
     <li><b>Candidates applying for QATAR or KUWAIT PCC from Passport office will be beneficial.</b></li>
+    <li><b>If selected for job. Registration with consultancy is mandatory for further processing"
+
+</b></li>
 </ul>
 
 </div>
