@@ -1,4 +1,12 @@
+<div id="myModal" class="modal" style="z-index: 9999">
 
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p> "Candidates after selection if interested please proceed or Else cancel. Any doubts we are here to Resolve query. But let's no waste eachothers time By making us wait."</p>
+  </div>
+
+</div>
 	<footer id="gtco-footer" role="contentinfo" style="padding: 2em;background-color: #a5a7ad" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="gtco-container">
@@ -11,8 +19,8 @@
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +91 959 153 9216</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> abroadgulfjobs@outlook.com</a></li><p>Processing is done <br>as per MEA Rules and Norms</p>
+							<li><a href="tel:+919591539216"><i class="icon-phone"></i> +91 959 153 9216</a></li>
+							<li><a href="mailto:info@abroadgulfjobs@outlook.com"><i class="icon-mail2"></i> abroadgulfjobs@outlook.com</a></li><p>Processing is done <br>as per MEA Rules and Norms</p>
 							
 						</ul>
 					</div>
@@ -57,5 +65,32 @@
 	<script src="js/main.js"></script>
 
 
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+modal.style.display = "block";
+// When the user clicks the button, open the modal 
+
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
 	</body>
 </html>

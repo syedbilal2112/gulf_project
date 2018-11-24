@@ -1230,7 +1230,7 @@ form label {
   border-bottom: none !important;
 }
 .gtco-nav-toggle i {
-  position: relative;
+  position: fixed;
   display: inline-block;
   width: 25px;
   height: 2px;
@@ -1240,6 +1240,7 @@ form label {
   text-indent: -55px;
   background: #252525;
   transition: all .2s ease-out;
+  top:50px;
 }
 .gtco-nav-toggle i::before, .gtco-nav-toggle i::after {
   content: '';
@@ -1251,12 +1252,15 @@ form label {
   transition: all .2s ease-out;
 }
 .gtco-nav-toggle.gtco-nav-white > i {
-  color: #fff;
-  background: #fff;
+  color: black;
+  background: black;
 }
-.gtco-nav-toggle.gtco-nav-white > i::before, .gtco-nav-toggle.gtco-nav-white > i::after {
-  background: #fff;
+.gtco-nav-toggle.gtco-nav-white > i::before{
+  background: black;
 }
+ .gtco-nav-toggle.gtco-nav-white > i::after {
+  background: black;
+ }
 
 .gtco-nav-toggle i::before {
   top: -7px;
@@ -1285,6 +1289,7 @@ form label {
   -ms-transform: rotateZ(45deg);
   -o-transform: rotateZ(45deg);
   transform: rotateZ(45deg);
+  background: white
 }
 
 .gtco-nav-toggle.active i::after {
@@ -1294,6 +1299,7 @@ form label {
   -ms-transform: rotateZ(-45deg);
   -o-transform: rotateZ(-45deg);
   transform: rotateZ(-45deg);
+  background: white
 }
 
 .gtco-nav-toggle {

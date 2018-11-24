@@ -71,9 +71,9 @@
 					<div class="gtco-contact-info">
 						<h3>Contact Information</h3>
 						<ul>
-							<li class="phone"><a href="tel://9591539216">+91 959 153 9216</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">abroadgulfjobs@outlook.com</a></li>
-							<li class="url"><a href="http://www.gulfjobsabroad.com">gulfjobsabroad.com</a></li>
+							<li class="phone"><a href="tel:+919591539216">+91 959 153 9216</a></li>
+							<li class="email"><a href="mailto:abroadgulfjobs@outlook.com">abroadgulfjobs@outlook.com</a></li>
+							<li class="url"><a href="gulfjobsabroad.com">gulfjobsabroad.com</a></li>
 						</ul>
 					</div>
 
